@@ -12,5 +12,6 @@ Peliin on tulossa seuraavia asiota
 - Erislaisa vastustajia
 - Erilaisia kerävttäviä asioita
 
-### Arviointi
+## Arviointi
+Arvio peli google formsissa.<br>
 https://forms.gle/twyqm9nAixLYzvuU8
