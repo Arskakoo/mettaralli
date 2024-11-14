@@ -1,9 +1,13 @@
 ## MettäRalli peli
 Pelin ideana on kiertää rata 3 kertaa mahdollisimman nopeasti
 
+> [!CAUTION]
+> Windows saattaa valittaa kun koitat pelata peliä sillä se on ladattu zippi.<br>
+> kloonaamalla tätä ei tule!
+
 ## Pelin lataaminen
-1. Lataa repo zippinä ja pura se. <br>
-2. Avaa kansio mettaralli josta löydät MettaRalli -Sovelluksen <br>
+1. Lataa ta kloonaa repo ja pura se. <br>
+2. Avaa/pura kansio mettaralli josta löydät MettaRalli -Sovelluksen <br>
 3. Tuplaklikkaa ja ala pelaamaan
 
 ## Tulevaisuudessa
